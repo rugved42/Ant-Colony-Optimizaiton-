@@ -1,0 +1,12 @@
+Ant Colony Optimization Berlin-52 Problem
+
+Run 0/10 Length of best path: 8360.86603938313
+Run 0/10 Length of best path: 8794.434452114805
+Run 1/10 Length of best path: 9154.795899596313
+Run 2/10 Length of best path: 8211.86603938313
+Run 3/10 Length of best path: 8494.108099335235
+Run 4/10 Length of best path: 8516.800280898815
+Run 5/10 Length of best path: 8325.416305603427
+Run 6/10 Length of best path: 8909.800280898815
+Run 7/10 Length of best path: 9097.092560861063
+Run 8/10 Length of best path: 8827.815696155272
